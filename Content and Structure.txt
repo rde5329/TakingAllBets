@@ -17,7 +17,7 @@ trying to beat the player
 
 V. Esthetics
 Graphics: pixely, with a lot of looping between GUIs
-Sound: maybe some light heart tavern music? but its going to be a strech goal
+Sound: maybe some light hearted tavern music? but its going to be a strech goal
 
 VI. Gameplay
 
